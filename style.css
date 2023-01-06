@@ -42,3 +42,66 @@
     border: 0;
     padding: 15px 0;
 }
+/* --------------My Failure Styles------- */
+
+.failure-setion{
+    display: flex;
+    gap: 80px;
+    margin-top: 200px;
+    margin-bottom: 150px;
+    justify-content: center;
+}
+.failure-setion img{
+    height: 600px;
+}
+.failure-text{
+    margin-top: 120px;
+    
+}
+.failure-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+.failure-decs{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+.failure-point{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding-top: 20px;
+}
+.failure-point i{
+    color: #16D887;
+    padding-right: 10px;
+
+} 
+
+/* ---------------My plan  Styles--------------- */
+
+.plan-section{
+ display: flex;
+ gap: 120px;
+ text-align: center;
+ margin: 0  120px;
+margin-bottom: 130px;
+}
+.plan-title{
+    text-align: center;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 50px;
+}
+.plan-sub-title{
+    font-weight: 700;
+    font-size: 30px;
+}
+.plan-decs{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
