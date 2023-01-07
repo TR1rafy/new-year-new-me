@@ -105,3 +105,38 @@ margin-bottom: 130px;
     font-size: 25px;
     color: #737272;
 }
+/* ------------positive mindset styles------------- */
+
+.postive-div{
+    background-image: url("images/gradient1.png") , url("images/watch.png") ;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    margin: 150px 0;
+    height: 500px;
+    
+
+}
+.positive-decs{
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 140px;
+    padding-right: 600px;
+}
+.positive-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+  
+    
+}
+.call-btn{
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    width: 150px;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 20px;
+    padding: 15px 20px ;
+}
